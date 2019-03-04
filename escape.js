@@ -2,7 +2,7 @@ var shuffle = function shuffle(array) {
 
     array.sort(() => Math.random() - 0.5);
 }
-  var team_members = ["Alison Overton", "Nick Rothera", "Harshini Fernando", "David Douglas", "Nicola Dawson", "Tara Brennan", "Tim Bharucha", "Richard Cranfield", "Richard Cranfield", "Julia George", "Gareth Hopkins", "Helen Jackson", "Kate Hockaday", "Neil Aldridge"]
+  var team_members = ["Alison Overton", "Nick Rothera", "Harshini Fernando", "David Douglas", "Nicola Dawson", "Tara Brennan", "Tim Bharucha", "Richard Cranfield", "Rachel Gardner", "Julia George", "Gareth Hopkins", "Helen Jackson", "Kate Hockaday", "Neil Aldridge"]
 
 
 
